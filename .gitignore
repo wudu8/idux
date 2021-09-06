@@ -2,7 +2,7 @@ node_modules
 coverage
 junit.xml
 temp
-dist
+/dist/
 
 .vscode
 .idea
@@ -14,15 +14,5 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-/packages/site/public/icon-svg
-/packages/site/src/router.ts
-/packages/site/src/sideNav.ts
+/packages/
 
-# old site files
-/public/icon-svg
-/site/docs/router.ts
-/site/docs/sideNav.ts
-
-/site/docs/public
-/site/docs/src
-/site/docs/index.html
